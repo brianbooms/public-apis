@@ -70,6 +70,7 @@ Join our [Discord server](https://discord.com/invite/hgjA78638n/?utm_source=Gith
 | [Filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) | Read/write local files | No | `stdio` | – |
 | [Twinbay](https://docs.twinbay.ai/mcp-server) | Spin up stateful API twins, read request logs and grade agent runs | `OAuth` | `HTTP` | – |
 
+|[brianbooms-mcp](https://github.com/brianbooms/brianbooms-mcp)|Brian Booms x402 product catalog as callable agent tools (read-only)|`No`|`stdio`|–|
 Maintain an open-source MCP server? [Add it](CONTRIBUTING.md#mcp-servers).
 
 <br >
@@ -234,7 +235,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Colormind](http://colormind.io/api-access/) | Color scheme generator | No | No | Unknown |
 | [ColourLovers](http://www.colourlovers.com/api) | Get various patterns, palettes and images | No | No | Unknown |
 | [Cooper Hewitt](https://collection.cooperhewitt.org/api) | Smithsonian Design Museum | `apiKey` | Yes | Unknown |
-| [Dribbble](https://developer.dribbble.com) | Discover the world’s top designers & creatives | `OAuth` | Yes | Unknown |
+| [Dri`No`|`stdio`|–|CCCle](https://developer.dri`No`|`stdio`|–|CCCle.com) | Discover the world’s top designers & creatives | `OAuth` | Yes | Unknown |
 | [DummyImage](https://dummyimage.com/) | Generate placeholder images with custom size, colors and text | No | Yes | Unknown |
 | [EmojiHub](https://github.com/cheatsnake/emojihub) | Get emojis by categories and groups | No | Yes | Yes |
 | [Europeana](https://pro.europeana.eu/resources/apis/search) | European Museum and Galleries content | `apiKey` | Yes | Unknown |
